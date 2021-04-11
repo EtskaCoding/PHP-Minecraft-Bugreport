@@ -3,3 +3,14 @@
     Author     : etska
 */
 
+.alert {
+  padding: 20px;
+  border-radius: 20px;
+  width: 20%;
+  background-color: #f44336;
+  color: white;
+}
+
+.closebtn:hover {
+  color: black;
+}
