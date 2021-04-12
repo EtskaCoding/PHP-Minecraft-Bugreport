@@ -3,9 +3,9 @@
 You need recaptacha key and discord webhook for this project.
 
 # Requirements
-PHP 7.0 or later
-PHP Curl extension
-Web server
+1. PHP 7.0 or later
+2. PHP Curl extension
+3. Web server
 
 # Installation
 
